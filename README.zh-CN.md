@@ -75,7 +75,6 @@ LLM_BASE_URL=https://open.bigmodel.cn/api/paas/v4
 LLM_MODEL=glm-4-air
 ```
 
-`.env` 已经在 `.gitignore` 里，不会被提交到 git，请不要手动把它加进版本控制。
 
 **方式二：在 Streamlit 页面里手动填写**
 
